@@ -2,10 +2,6 @@
 
 Base cordova app with stenciljs components
 
-## blue-app
+## /blue-components
 
-stencil app
-
-## blue-components
-
-stencil components
+folder containing stencil components
